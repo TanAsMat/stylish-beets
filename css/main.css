@@ -28,7 +28,7 @@ figure {
 
 figcaption {
   font-family: 'PT Serif', serif;
-  font-size: 1.5 em;
+  font-size: 1.5em;
   font-style: italic;
   text-align: center;
 }
@@ -61,7 +61,6 @@ main {
   background-position: top;
   background-color: #c9b5ab;
   color: #222
-  padding: 1em;
   line-height: 1.5;
 }
 
@@ -74,7 +73,7 @@ main {
   max-width: 60em;
   background-color: #c9b5ab;
   margin: 0 auto;
-  padding 1em;
+  padding: 1em;
 }
 h2 {
   font-family: 'PT Sans', sans-serif;
@@ -89,7 +88,7 @@ aside {
   max-width: 60em;
   background-color: #c9b5ab;
   margin: 0 auto;
-  padding 1em;
+  padding: 1em;
 }
 
 footer {
@@ -100,5 +99,5 @@ footer {
   max-width: 60em;
   background-color: #c9b5ab;
   margin: 0 auto;
-  padding 1em;
+  padding: 1em;
 }
