@@ -56,6 +56,12 @@ main {
   padding: 1em;
 }
 
+.main-wrapper {
+  max-width: 60em;
+  background-color: #c9b5ab;
+  margin: 0 auto;
+  padding 1em;
+}
 h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
