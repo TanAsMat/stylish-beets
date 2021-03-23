@@ -35,7 +35,10 @@ figcaption {
 
 .nav-list {
   list-style-type: none;
-
+  border-bottom: none;
+  font-family: 'PT Sans', sans-serif;
+  text-align: left;
+  color: #8f2440;
 }
 
 header {
@@ -62,6 +65,10 @@ main {
   background-color: #c9b5ab;
   color: #222
   line-height: 1.5;
+}
+
+main a {
+  text-decoration: none;
 }
 
 .first-line {
