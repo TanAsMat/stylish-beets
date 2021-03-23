@@ -32,6 +32,11 @@ figcaption {
   text-align: center;
 }
 
+.nav-list {
+  list-style-type: none;
+
+}
+
 header {
   background-color: #c9b5ab;
   color: #3f1622;
@@ -39,6 +44,7 @@ header {
 
 h1 {
   font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
 }
 
 main {
@@ -48,4 +54,9 @@ main {
   text-align: center;
   color: #222
   padding: 1em;
+}
+
+h2 {
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
 }
