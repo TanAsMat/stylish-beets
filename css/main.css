@@ -13,6 +13,7 @@ font-family: 'PT Serif', serif;
 */
 
 img {
+  width: 80%;
   margin: 1em 1em 0 1em;
 }
 
@@ -42,18 +43,31 @@ header {
   color: #3f1622;
 }
 
+.header-content {
+  max-width: 60em;
+  background-color: #c9b5ab;
+  margin: 0 auto;
+  padding: 1em;
+}
+
 h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
 
 main {
+  font-family: 'PT Serif', serif;
   background-size: cover;
   background-position: top;
   background-color: #c9b5ab;
-  text-align: center;
   color: #222
   padding: 1em;
+  line-height: 1.5;
+}
+
+.first-line {
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
 }
 
 .main-wrapper {
@@ -65,4 +79,26 @@ main {
 h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+}
+
+aside {
+  font-family: 'PT Serif', serif;
+}
+
+.aside-content {
+  max-width: 60em;
+  background-color: #c9b5ab;
+  margin: 0 auto;
+  padding 1em;
+}
+
+footer {
+  font-family: 'PT Serif', serif;
+}
+
+.footer-content {
+  max-width: 60em;
+  background-color: #c9b5ab;
+  margin: 0 auto;
+  padding 1em;
 }
