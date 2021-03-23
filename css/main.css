@@ -11,3 +11,41 @@ html {
 font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
 */
+
+img {
+  margin: 1em 1em 0 1em;
+}
+
+strong {
+  font-weight: normal;
+}
+
+figure {
+  margin: 0%;
+  float: none;
+}
+
+figcaption {
+  font-family: 'PT Serif', serif;
+  font-size: 1.5 em;
+  font-style: italic;
+  text-align: center;
+}
+
+header {
+  background-color: #c9b5ab;
+  color: #3f1622;
+}
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+main {
+  background-size: cover;
+  background-position: top;
+  background-color: #c9b5ab;
+  text-align: center;
+  color: #222
+  padding: 1em;
+}
