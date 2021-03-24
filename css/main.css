@@ -45,17 +45,16 @@ nav ol {
   text-decoration-color: #8f2440;
 }
 
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 a {
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
   font-size: 1.125rem;
   line-height: 1.8rem;
-  color: #8f2440;
-}
-
-a:hover {
-  border-bottom: none;
-  text-decoration: none;
   color: #8f2440;
 }
 
