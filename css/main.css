@@ -13,8 +13,9 @@ font-family: 'PT Serif', serif;
 */
 
 img {
-  width: 80%;
-  margin: 1em 1em 0 1em;
+  border-radius: 4px;
+  width: 100%;
+  margin-top: .3em;
 }
 
 strong {
@@ -28,17 +29,17 @@ figure {
 
 figcaption {
   font-family: 'PT Serif', serif;
-  font-size: 1.5em;
+  font-size: 1em;
   font-style: italic;
   text-align: center;
 }
 
-.nav-list {
+nav ol {
   list-style-type: none;
-  border-bottom: none;
   font-family: 'PT Sans', sans-serif;
-  text-align: left;
-  color: #8f2440;
+  margin: 1.5em;
+  padding: 1em;
+  text-decoration-color: #8f2440;
 }
 
 header {
@@ -56,6 +57,7 @@ header {
 h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+  font-size: 1em;
 }
 
 main {
@@ -67,6 +69,13 @@ main {
   line-height: 1.5;
 }
 
+.quote {
+  font-family: 'PT Serif', serif;
+  font-size: 2em;
+  font-style: italic;
+  margin-top: 1.4em 1.4em 1.4em 1.4em;
+}
+
 main a {
   text-decoration: none;
 }
@@ -74,6 +83,7 @@ main a {
 .first-line {
   font-family: 'PT Serif', serif;
   font-weight: bold;
+  font-size: 1.5em;
 }
 
 .main-wrapper {
