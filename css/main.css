@@ -13,9 +13,8 @@ font-family: 'PT Serif', serif;
 */
 
 img {
-  border-radius: 4px;
-  width: 100%;
-  margin-top: .3em;
+  width: 90%;
+  margin: 0 2em .5em 2em;
 }
 
 strong {
@@ -99,6 +98,12 @@ main a {
 h2 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
+}
+
+.data-list {
+  font-weight: bold;
+  font-size: .8rem;
+  line-height: 1.5;
 }
 
 aside {
