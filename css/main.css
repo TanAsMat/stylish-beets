@@ -29,7 +29,7 @@ figure {
 
 figcaption {
   font-family: 'PT Serif', serif;
-  font-size: 1em;
+  font-size: 0.8rem;
   font-style: italic;
   text-align: center;
 }
@@ -43,6 +43,9 @@ nav ol {
 }
 
 header {
+  font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  font-size: 0.8rem;
   background-color: #c9b5ab;
   color: #3f1622;
 }
@@ -57,21 +60,22 @@ header {
 h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
-  font-size: 1em;
+  font-size: 1.5rem;
 }
 
 main {
   font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  font-size: 0.8rem;
   background-size: cover;
   background-position: top;
   background-color: #c9b5ab;
   color: #222
-  line-height: 1.5;
 }
 
 .quote {
   font-family: 'PT Serif', serif;
-  font-size: 2em;
+  font-size: 1.125rem;
   font-style: italic;
   margin-top: 1.4em 1.4em 1.4em 1.4em;
 }
@@ -99,6 +103,8 @@ h2 {
 
 aside {
   font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  font-size: 0.8rem;
 }
 
 .aside-content {
@@ -110,6 +116,8 @@ aside {
 
 footer {
   font-family: 'PT Serif', serif;
+  line-height: 1.5;
+  font-size: 0.8rem;
 }
 
 .footer-content {
